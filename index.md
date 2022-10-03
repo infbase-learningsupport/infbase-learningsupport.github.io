@@ -13,8 +13,8 @@ If you have suggestions and feedback for InfBase, please [let us know how we are
 ## InfBase helps you with the following courses 
 
 __Semester 1:__
-* Year 1: Discrete Mathematics and Probability
 * Year 1: Informatics 1 - Introduction to Computation
+* Year 2: Discrete Mathematics and Probability
 * Year 2: Informatice 2 - Foundations of Data Science
 * Year 2: Informatics 2 – Introduction to Algorithms and Data Structures
 * Year 2: Informatice 2C - Introduction to Computer systems
