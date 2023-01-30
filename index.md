@@ -33,4 +33,6 @@ Regular InfBase sessions start in Week 3 (Monday, October 3rd, 2022) and will ru
 
 To find help about a specific course, find the course in the table below and then check which session can help you with that course. 
 
-![InfBase 2022 schedule, semester 1](schedule_2022_1.png)
+![InfBase schedule 2022-23-S2](https://user-images.githubusercontent.com/1230497/215448227-7f115166-1387-4b61-92c0-0d633f384257.png)
+
+
