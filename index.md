@@ -45,7 +45,3 @@ Regular InfBase sessions start in Week 3 (Monday, October 3rd, 2022) and will ru
 Below is a detailed schedule where you can find which of the above mentioned courses the tutor is best able to help you with. However, every tutor can help with all courses. 
 
 <img src="https://github.com/infbase-learningsupport/infbase-learningsupport.github.io/assets/1230497/056fbfd8-6a73-425a-9934-3f5a50e763a2" alt="drawing" width="600"/>
-
-![infbase-schedule-2023-s1](https://github.com/infbase-learningsupport/infbase-learningsupport.github.io/assets/1230497/056fbfd8-6a73-425a-9934-3f5a50e763a2)
-
-
