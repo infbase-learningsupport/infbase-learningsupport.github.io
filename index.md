@@ -42,7 +42,6 @@ Regular InfBase sessions start in Week 3 of the semester and will run until the 
 * **Friday** 11-1pm
 * Friday: 3-5pm
 
-
 Below is a detailed schedule where you can find which of the above mentioned courses the tutor is best able to help you with. However, every tutor can help with all courses. 
 
-<img src="https://github.com/infbase-learningsupport/infbase-learningsupport.github.io/assets/1230497/0a1d40f1-9d26-4959-a97d-e50079341b5f" alt="drawing" width="500"/>
+<img src="https://github.com/infbase-learningsupport/infbase-learningsupport.github.io/assets/1230497/a59cd45b-b03c-4310-9f58-b23cbef0a2a5" alt="drawing" width="500"/>
