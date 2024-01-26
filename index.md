@@ -29,18 +29,7 @@ __Semester 2:__
 
 ## Schedule
 
-Regular InfBase sessions start in Week 3 of the semester and will run until the end of revision week. Each session is supported by a tutor that can help your with *some* courses. 
-
-* **Monday** 10-2pm 
-* Monday 4-6pm
-* **Tuesday**: 12-2pm
-* Tuesday: 4-6pm
-* **Wednesday**: 11-1pm
-* Wednesday: 2-6pm
-* **Thursday**: 12-2pm
-* Thursday: 4-6pm
-* **Friday** 11-1pm
-* Friday: 3-5pm
+Regular InfBase sessions start in Week 3 of the semester and will run until the end of revision week. Each session is supported by a tutor that can help your with *some* courses.
 
 Below is a detailed schedule where you can find which of the above mentioned courses the tutor is best able to help you with. However, every tutor can help with all courses. 
 
