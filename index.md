@@ -33,6 +33,6 @@ Regular InfBase sessions start in Week 3 of the semester and will run until the 
 
 Below is a detailed schedule where you can find which of the above mentioned courses the tutor is best able to help you with. However, every tutor can help with all courses. 
 
-[InfBase schedule 2023_24 S2.pdf](https://github.com/infbase-learningsupport/infbase-learningsupport.github.io/files/14062932/InfBase.schedule.2023_24.S2.pdf)
+![InfBase schedule 2023_24 S2](https://github.com/infbase-learningsupport/infbase-learningsupport.github.io/assets/1230497/3483d9a0-e4ab-4b52-8eb6-99fed13b7857)
 
 <img src="https://github.com/infbase-learningsupport/infbase-learningsupport.github.io/files/14062932/InfBase.schedule.2023_24.S2.pdf" alt="drawing" width="500"/>
