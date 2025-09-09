@@ -1,4 +1,4 @@
-**Shortcut menu**: [Supported Courses](#supported-courses)---[Schedule](#schedule)---[Feedback](feedback.html)
+**Shortcut menu**: [Supported Courses](#supported-courses)---[Schedule](#schedule)
 
 # What is InfBase?
 
