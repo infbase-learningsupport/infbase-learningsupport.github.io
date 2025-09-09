@@ -25,8 +25,4 @@ __Semester 2:__
 
 ## Schedule
 
-Regular InfBase sessions start in Week 1 of the semester and will run until the end of revision week. Each session is supported by a demonstrator who has taken Year 1 and 2 courses in previous years, and who can help you work through problems with lab exercises that you are encountering on your courses.
-
-Below is a detailed schedule where you can find which of the above mentioned courses the tutor is best able to help you with. However, every tutor can help with all courses. 
-
-![InfBase schedule 2023_24 S2](https://github.com/infbase-learningsupport/infbase-learningsupport.github.io/assets/1230497/3483d9a0-e4ab-4b52-8eb6-99fed13b7857)
+Regular InfBase sessions start in Week 2 of the semester and will run until the end of revision week. Each session is supported by a demonstrator who has taken Year 1 and 2 courses in previous years, and who can help you work through problems with lab exercises that you are encountering on your courses. A detailed schedule will be announced in Week 1.
