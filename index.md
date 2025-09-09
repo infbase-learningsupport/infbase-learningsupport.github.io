@@ -6,7 +6,7 @@ InfBase is a drop-in helpdesk for first and second year students to get lab supp
 
 InfBase is run by students in higher years with of expertise and who offer 1-on-1 support and advice on core pre-honours courses in Informatics. In addition to supporting drop-in assistance, InfBase can be used as a place to work together with other students, with support from an InfBase demonstrator. Sessions will run in Appleton Tower 7.03 (7th floor). 
 
-If you have suggestions and feedback for InfBase, please [let us know how we are doing](feedback.html).
+<!-- If you have suggestions and feedback for InfBase, please [let us know how we are doing](feedback.html). -->
 
 ## InfBase helps you with the following courses 
 
