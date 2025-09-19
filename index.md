@@ -4,7 +4,9 @@
 
 InfBase is a drop-in helpdesk for first and second year students to get lab support and additional support for their courses. 
 
-InfBase is run by students in higher years with of expertise and who offer 1-on-1 support and advice on core pre-honours courses in Informatics. In addition to supporting drop-in assistance, InfBase can be used as a place to work together with other students, with support from an InfBase demonstrator. Sessions will run in Appleton Tower 7.03 (7th floor). 
+Each session is supported by Informatics students in higher years, who can give 1-on-1 support and advice to help you work through problems with lab exercises that you are encountering on your core pre-honours Informatics courses. 
+
+In addition to supporting drop-in assistance, InfBase can be used as a place to work together with other students, with support from an InfBase demonstrator. Sessions will run in Appleton Tower 7.03 (7th floor). 
 
 <!-- If you have suggestions and feedback for InfBase, please [let us know how we are doing](feedback.html). -->
 
@@ -25,4 +27,11 @@ __Semester 2:__
 
 ## Schedule
 
-Regular InfBase sessions start in Week 2 of the semester and will run until the end of revision week. Each session is supported by a demonstrator who has taken Year 1 and 2 courses in previous years, and who can help you work through problems with lab exercises that you are encountering on your courses. A detailed schedule will be announced in Week 1.
+Regular InfBase sessions start in Week 2 of the semester and will run until the end of revision week.
+
+|Day | Time |
+|----|---------|
+| Monday | 11:10-13:00 |
+| Tuesday | 11:10-13:00 |
+| Wednesday | 11:10-13:00 |
+| Thursday |  11:10-13:00 |
