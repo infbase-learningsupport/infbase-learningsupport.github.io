@@ -14,9 +14,9 @@ In addition to supporting drop-in assistance, InfBase can be used as a place to 
 
 __Semester 1:__
 * Year 1: Informatics 1 - Introduction to Computation
-* Year 2: Informatice 2 - Foundations of Data Science
+* Year 2: Informatics 2 - Foundations of Data Science
 * Year 2: Informatics 2 – Introduction to Algorithms and Data Structures
-* Year 2: Informatice 2C - Introduction to Computer systems
+* Year 2: Informatics 2C - Introduction to Computer systems
 
 __Semester 2:__
 * Year 1: Informatics 1 - Object Oriented Programming
