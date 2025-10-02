@@ -37,7 +37,7 @@ Regular InfBase sessions start in Week 2 of the semester and will run until the 
 | Thursday |  11:10-13:00 |
 
 
-## Demonstrator
+## Demonstrators
 
 | | |
 | :---: | :---: |
