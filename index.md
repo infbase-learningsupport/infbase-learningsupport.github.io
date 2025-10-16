@@ -43,5 +43,5 @@ Regular InfBase sessions start in Week 2 of the semester and will run until the 
 | :---: | :---: |
 | <img src="demonstrators/kashvi.jpeg" alt="Kashvi" width="150"> <br> **Kashvi** | <img src="demonstrators/Vaishnavi.jpeg" alt="Vaishnavi" width="150"> <br> **Vaishnavi** |
 | <img src="demonstrators/jakub.png" alt="Jakub" width="150"> <br> **Jakub** | <img src="demonstrators/Fola.jpg" alt="Fola" width="150"> <br> **Fola** |
-| <img src="https://placehold.co/200x200/AF7AC5/000000?text=Shreeya" alt="Shreeya" width="150"> <br> **Shreeya** | <img src="https://placehold.co/200x200/E59866/000000?text=Will" alt="Will" width="150"> <br> **Will** |
+| <img src="demonstrators/shreeya.jpeg" alt="Shreeya" width="150"> <br> **Shreeya** | <img src="https://placehold.co/200x200/E59866/000000?text=Will" alt="Will" width="150"> <br> **Will** |
 | <img src="demonstrators/vasu.jpg" alt="Vasu" width="150"> <br> **Vasu** | <img src="demonstrators/aarush.jpeg" alt="Aarush" width="150"> <br> **Aarush** |
