@@ -17,6 +17,7 @@ __Semester 1:__
 * Year 2: Informatics 2 - Foundations of Data Science
 * Year 2: Informatics 2 – Introduction to Algorithms and Data Structures
 * Year 2: Informatics 2C - Introduction to Computer systems
+* Year 2: Discrete Mathematics and Probability 
 
 __Semester 2:__
 * Year 1: Informatics 1 - Object Oriented Programming
