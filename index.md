@@ -28,7 +28,8 @@ __Semester 2:__
 
 ## Schedule
 
-Regular InfBase sessions start in Week 2 of the semester and will run until the end of revision week.
+Regular InfBase sessions start Wednesday 14th and will run until the end of revision week.
+There will be no InfBase during Flexible Learning Week or Spring Vacation.
 
 |Day | Time |
 |----|---------|
